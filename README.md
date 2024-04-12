@@ -1,6 +1,6 @@
-# Localization Keys
+# app-generate-maze
 
-For multi-language support, generate concise and distinct keys for localization files or dictionaries. Using abbreviated keys produced by [`acronymer`](https://github.com/palashmon/acronymer) simplifies the localization process and ensures consistency across translations.
+This is a simple application that generates a maze based on the given dimensions and the starting point. The maze is generated as a 2D array of cells, where each cell has a value of 0 or 1. The value 0 represents a wall, and the value 1 represents a path. The maze is generated in such a way that there is only one path from the starting point to the end point.
 
 ## Install
 
