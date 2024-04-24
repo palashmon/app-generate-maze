@@ -1,4 +1,4 @@
-# app-generate-maze
+# app-generate-maze [![CI](https://github.com/palashmon/app-generate-maze/actions/workflows/main.yml/badge.svg)](https://github.com/palashmon/app-generate-maze/actions/workflows/main.yml)
 
 This is a simple application that generates a maze based on the given dimensions and the starting point. The maze is generated as a 2D array of cells, where each cell has a value of 0 or 1. The value 0 represents a wall, and the value 1 represents a path. The maze is generated in such a way that there is only one path from the starting point to the end point.
 
