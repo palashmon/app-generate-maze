@@ -1,6 +1,6 @@
 {
   "name": "app-generate-maze",
-  "version": "1.6.9",
+  "version": "1.6.10",
   "description": "",
   "private": true,
   "main": "dist/src/index.js",
